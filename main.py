@@ -7,7 +7,7 @@ from sim import FormationSim
 from viz import animate
 
 from src.sim import FormationSim
-from src.viz import animate
+from src.viz import animate 
 
 
 def parse_args() -> argparse.Namespace:
