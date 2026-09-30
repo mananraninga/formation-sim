@@ -3,7 +3,7 @@
 Simulated agents share pose over an unreliable radio and hold a geometric formation.
 
 This is a software study, not an aircraft. Nothing here flies.
-
+![Formation demo](demo.png.png)
 ## What it does
 
 - N point-mass agents start scattered on a plane.
