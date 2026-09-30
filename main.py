@@ -3,9 +3,8 @@
 
 from __future__ import annotations
 
-import argparse
-
-import matplotlib.pyplot as plt
+from sim import FormationSim
+from viz import animate
 
 from src.sim import FormationSim
 from src.viz import animate
